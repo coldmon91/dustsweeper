@@ -1,0 +1,3 @@
+58323 /usr/local/bin/ollama
+9047 /Applications/Claude.app/Contents/MacOS/Claude
+222 /usr/libexec/simdiskimaged

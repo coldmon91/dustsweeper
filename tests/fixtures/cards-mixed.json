@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "depth": 1,
+      "evidence": {
+        "daemon_commands": ["/usr/local/bin/ollama"],
+        "last_used": "2026-10-19T09:53:41Z",
+        "open_files": []
+      },
+      "identity": {
+        "kind": "model_store",
+        "label_ko": "모델 저장소",
+        "rule_id": "ollama_models",
+        "touch": "report_only"
+      },
+      "path": "/Users/cskim/.ollama",
+      "size_bytes": 13958643712
+    },
+    {
+      "depth": 2,
+      "evidence": {
+        "daemon_commands": [],
+        "last_used": null,
+        "open_files": []
+      },
+      "identity": {
+        "kind": "unknown",
+        "label_ko": "",
+        "rule_id": null,
+        "touch": "unknown"
+      },
+      "path": "/Users/cskim/.cache/codex-runtimes",
+      "size_bytes": 5500000000
+    }
+  ],
+  "min_bytes": 1073741824,
+  "version": 1
+}

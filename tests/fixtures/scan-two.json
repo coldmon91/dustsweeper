@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "depth": 1,
+      "path": "/Users/cskim/.ollama",
+      "size_bytes": 13958643712
+    },
+    {
+      "depth": 2,
+      "path": "/Users/cskim/Library/Developer/CoreSimulator",
+      "size_bytes": 17
+    }
+  ],
+  "min_bytes": 1073741824,
+  "version": 1
+}

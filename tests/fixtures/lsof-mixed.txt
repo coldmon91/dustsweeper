@@ -1,0 +1,10 @@
+p58323
+collama
+fcwd
+n/Users/cskim
+ftxt
+n/usr/local/bin/ollama
+p9047
+cClaude
+ftxt
+n/Users/cskim/Library/Application Support/Claude/Local Storage/leveldb/LOCK
